@@ -24,6 +24,8 @@ The code consists of classes representing Tigers and Goats, along with functions
 
 ## How to Play
 
+Use VS code or Windows based compiler to ensure that the code runs properly. Some codes in the file like system ("clear") that doesn't work in xcode.
+
 1. Run the code and select "Play Game" from the menu by choosing option 1.
 2. Follow the on-screen instructions to place Goats on the board and make moves for both Goats and Tigers.
      That includes choosing the tiger and goats by entering the coordinates and entering the coordinates of the final position of the tigers or goats to move.
